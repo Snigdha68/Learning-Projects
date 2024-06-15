@@ -1,0 +1,35 @@
+body{
+  background-image: url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg);
+  height: 100%;
+  background-position: center;
+  width: 100%;
+  height: 100%;
+  margin: 0;  
+}
+h1, p{
+  text-align:center;
+}
+#survey-form{
+  font-family: Oswald;
+  font-size: 18px;
+}
+
+.maindiv{
+  background-color: rgb(155, 155, 155);  
+  margin: 30px;
+  padding: 10px;
+}
+
+input{
+  width: 38vw;
+}
+#name, #email, #number{
+  margin-bottom: 10px;
+  width:75%;
+}
+#dropdown{
+  margin: 5px auto;
+  width: 50%;
+  height: 22px;
+}
+
